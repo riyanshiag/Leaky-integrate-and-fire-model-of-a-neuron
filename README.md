@@ -1,0 +1,1 @@
+# Leaky-integrate-and-fire-model-of-a-neuron
